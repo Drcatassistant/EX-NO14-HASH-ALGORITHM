@@ -28,8 +28,8 @@ To implement HASH ALGORITHM
 
 ## Program:
 ```python
-Developed By  :  SANJAY M
-Register No   :  212223230187
+Developed By  :  Jackson Raj A
+Register No   :  212223040071
 ```
 ```python
 #include <stdio.h>
